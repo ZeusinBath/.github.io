@@ -19,3 +19,4 @@ We value and want to learn more about the deep historic links between many of ou
 We recognise the limitations of language in making such principles absolute, and accept that this statement of principles is likely to evolve. We celebrate the universal human values at the heart of the world’s faith, ethical and philosophical traditions. 
 
 *Bath Inter Faith Group – adopted Oct 2025*
+
