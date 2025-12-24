@@ -29,7 +29,7 @@ The aims of Bath IFG are to:
 
 To join, please send an email to:
 
-**[chair@BathIFG.org.uk](mailto:chair@BathIFG.org.uk)** and **[secretary@BathIFG.org.uk](mailto:secretary@BathIFG.org.uk)**
+**[secretary@BathIFG.org.uk](mailto:secretary@BathIFG.org.uk)**
 
 Include the following in your email:
 
