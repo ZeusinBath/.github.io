@@ -1,6 +1,6 @@
 ---
 layout: page
-title: principles
+title: Principles
 permalink: /principles/
 ---
 
