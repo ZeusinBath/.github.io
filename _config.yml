@@ -4,4 +4,5 @@ theme: minima
 
 header_pages:
   - index.md
+  - principles.md
   - events.md
