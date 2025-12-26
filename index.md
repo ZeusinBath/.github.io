@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: index
 ---
 Since 1990, Bath Inter Faith Group (IFG) has been working across the city to promote peace, cooperation and mutual respect among religious groups.
 
