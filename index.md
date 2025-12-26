@@ -1,3 +1,4 @@
+![Bath Inter Faith Group logo](/assets/images/BathIFG-2-purple.jpg)
 ---
 layout: home
 title: Home; about
